@@ -1,2 +1,2 @@
-# examen1
-examen programacion 1
+# Lectura de Cadena RNA
+Una lectura de la cadena de la RNA
